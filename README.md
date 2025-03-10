@@ -44,16 +44,19 @@ README.md               # This file
 
 3. Run the program:
    ```bash
-   ./setting_up
+   ./setting_up [size] [pattern (o and .)]
+   ```
+   or
+   ```bash
+   ./setting_up [map file path]
    ```
 
 ## Example
 
-Once the program is compiled, run it and input the desired values for the square's size and position. For instance:
+Once the program is compiled, run it and input the desired values for the square's size. For instance:
 
 ```bash
 Enter the size of the square: 5
-Enter the position (x, y): 10 20
 ```
 
 The program will then display the current attributes of the square, like so:
