@@ -78,7 +78,3 @@ This project utilizes a structure to define the attributes of a square and funct
 ## Contributors
 
 This project was developed individually as part of an exercise for Epitech.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
